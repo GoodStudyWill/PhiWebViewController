@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'PhiWebViewController_Example' do
+  pod 'PhiWebViewController', :path => '../'
+
+  target 'PhiWebViewController_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
