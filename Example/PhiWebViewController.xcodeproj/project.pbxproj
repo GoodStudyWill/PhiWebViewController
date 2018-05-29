@@ -39,7 +39,7 @@
 /* Begin PBXFileReference section */
 		0B6610E8741F842E34DB47CF /* Pods-PhiWebViewController_Example.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-PhiWebViewController_Example.release.xcconfig"; path = "Pods/Target Support Files/Pods-PhiWebViewController_Example/Pods-PhiWebViewController_Example.release.xcconfig"; sourceTree = "<group>"; };
 		1AA5242C1FA1B538C87800A7 /* Pods-PhiWebViewController_Tests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-PhiWebViewController_Tests.debug.xcconfig"; path = "Pods/Target Support Files/Pods-PhiWebViewController_Tests/Pods-PhiWebViewController_Tests.debug.xcconfig"; sourceTree = "<group>"; };
-		21256E9B2A168D3251488F45 /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; name = README.md; path = ../README.md; sourceTree = "<group>"; };
+		21256E9B2A168D3251488F45 /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = net.daringfireball.markdown; name = README.md; path = ../README.md; sourceTree = "<group>"; };
 		6003F58A195388D20070C39A /* PhiWebViewController_Example.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = PhiWebViewController_Example.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		6003F58D195388D20070C39A /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
 		6003F58F195388D20070C39A /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
@@ -61,12 +61,12 @@
 		606FC2411953D9B200FFA9A0 /* Tests-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "Tests-Prefix.pch"; sourceTree = "<group>"; };
 		71719F9E1E33DC2100824A3D /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		74BE66B350D0A28C8845B0D0 /* Pods-PhiWebViewController_Tests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-PhiWebViewController_Tests.release.xcconfig"; path = "Pods/Target Support Files/Pods-PhiWebViewController_Tests/Pods-PhiWebViewController_Tests.release.xcconfig"; sourceTree = "<group>"; };
-		8677CA2971C8941EB71F4711 /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; name = LICENSE; path = ../LICENSE; sourceTree = "<group>"; };
+		8677CA2971C8941EB71F4711 /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = LICENSE; path = ../LICENSE; sourceTree = "<group>"; };
 		873B8AEA1B1F5CCA007FD442 /* Main.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; name = Main.storyboard; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		8A2BFD3345AFC3282AA4194F /* Pods_PhiWebViewController_Example.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_PhiWebViewController_Example.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		8ACB6E3BE7F10F0F3B8C9929 /* Pods_PhiWebViewController_Tests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_PhiWebViewController_Tests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		EA89BE5F755992C93264AECE /* Pods-PhiWebViewController_Example.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-PhiWebViewController_Example.debug.xcconfig"; path = "Pods/Target Support Files/Pods-PhiWebViewController_Example/Pods-PhiWebViewController_Example.debug.xcconfig"; sourceTree = "<group>"; };
-		F1E5536CF674750C67473A05 /* PhiWebViewController.podspec */ = {isa = PBXFileReference; includeInIndex = 1; name = PhiWebViewController.podspec; path = ../PhiWebViewController.podspec; sourceTree = "<group>"; };
+		F1E5536CF674750C67473A05 /* PhiWebViewController.podspec */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = PhiWebViewController.podspec; path = ../PhiWebViewController.podspec; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */

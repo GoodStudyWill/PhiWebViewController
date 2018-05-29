@@ -1,0 +1,16 @@
+PODS:
+  - PhiWebViewController (0.1.0)
+
+DEPENDENCIES:
+  - PhiWebViewController (from `../`)
+
+EXTERNAL SOURCES:
+  PhiWebViewController:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  PhiWebViewController: 83c5dd259a831da955eb4df73e3c831f4f7c181a
+
+PODFILE CHECKSUM: 3a461aef4b7282df29104a09c9c6549e47260ca9
+
+COCOAPODS: 1.5.0

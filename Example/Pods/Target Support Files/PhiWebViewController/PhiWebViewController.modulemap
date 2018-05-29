@@ -1,0 +1,6 @@
+framework module PhiWebViewController {
+  umbrella header "PhiWebViewController-umbrella.h"
+
+  export *
+  module * { export * }
+}
